@@ -42,7 +42,7 @@ fun HomeScreen(onStartClick: () -> Unit) {
                 painter = painterResource(R.drawable.home),
                 contentDescription = "US Citizen Test for Thai",
                 modifier = Modifier
-                    .size(300.dp)
+                    .size(250.dp)
                     .padding(bottom = 24.dp)
             )
 
@@ -86,7 +86,7 @@ fun HomeScreen(onStartClick: () -> Unit) {
 
             // Disclaimer
 
-            Spacer(modifier = Modifier.height(64.dp))
+            Spacer(modifier = Modifier.height(32.dp))
             Text(
                 text = "คำเตือน: แอปนี้ไม่ใช่แอปทางการของรัฐบาลสหรัฐฯ และไม่มีความเกี่ยวข้องกับหน่วยงานของรัฐใด ๆ",
                 fontSize = 12.sp,
