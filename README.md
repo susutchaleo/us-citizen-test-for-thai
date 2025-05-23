@@ -16,7 +16,7 @@ A mobile Android application that helps Thai speakers prepare for the U.S. natur
 
 | Home Screen | Quiz Screen | Result Screen |
 |-------------|-------------|----------------|
-| ![Home](screenshots/home.png) | ![Quiz](screenshots/quiz.png) | ![Result](screenshots/result.png) |
+| ![Home](screenshots/Home.png) | ![Quiz](screenshots/Quiz.png) | ![Result](screenshots/Result.png) |
 
 ## 🚀 How to Install
 
