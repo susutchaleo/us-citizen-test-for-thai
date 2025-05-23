@@ -48,4 +48,4 @@ Test content based on USCIS official naturalization materials
 ## 🔒 Privacy
 
 This app does not collect or store any personal information.
-See => https://docs.google.com/document/d/1R_-BX26JkOLIbz5ouCmG4X_v-NiwtWYvFbGJ6Uo1Rh8/edit?usp=sharing
+See => https://susutchaleo.github.io/us-citizen-test-for-thai/privacy_policy.html
