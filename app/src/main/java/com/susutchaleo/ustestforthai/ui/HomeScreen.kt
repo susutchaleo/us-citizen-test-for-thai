@@ -42,33 +42,33 @@ fun HomeScreen(onStartClick: () -> Unit) {
                 painter = painterResource(R.drawable.home),
                 contentDescription = "US Citizen Test for Thai",
                 modifier = Modifier
-                    .size(400.dp)
-                    .padding(bottom = 32.dp)
+                    .size(300.dp)
+                    .padding(bottom = 24.dp)
             )
 
             Text(
                 "ยินดีต้อนรับเข้าสู่",
-                fontSize = 25.sp,
+                fontSize = 22.sp,
                 color = Color(0xFFECC1A4),
                 fontWeight = FontWeight.Bold
             )
             Text(
                 "แบบทดสอบ",
-                fontSize = 25.sp,
+                fontSize = 22.sp,
                 color = Color(0xFFCBAACB),
                 fontWeight = FontWeight.Bold,
             )
 
             Text(
                 "การเป็นพลเมืองอเมริกา",
-                fontSize = 25.sp,
+                fontSize = 22.sp,
                 color = Color(0xFFCBAACB),
                 fontWeight = FontWeight.Bold,
                 )
 
             Text(
                 "สำหรับคนไทย",
-                fontSize = 25.sp,
+                fontSize = 22.sp,
                 color = Color(	0xFFD8BFD8),
                 fontWeight = FontWeight.Bold
             )
@@ -83,6 +83,23 @@ fun HomeScreen(onStartClick: () -> Unit) {
                     fontWeight = FontWeight.Bold
                     )
             }
+
+            // Disclaimer
+
+            Spacer(modifier = Modifier.height(64.dp))
+            Text(
+                text = "คำเตือน: แอปนี้ไม่ใช่แอปทางการของรัฐบาลสหรัฐฯ และไม่มีความเกี่ยวข้องกับหน่วยงานของรัฐใด ๆ",
+                fontSize = 12.sp,
+                color = Color.LightGray,
+                lineHeight = 16.sp
+            )
+            Spacer(modifier = Modifier.height(16.dp))
+            Text(
+                text = "Disclaimer: This app is not affiliated with the U.S. government. It is provided for educational purposes only.",
+                fontSize = 12.sp,
+                color = Color.LightGray,
+                lineHeight = 16.sp
+            )
         }
     }
 }
