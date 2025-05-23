@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "What is the supreme law of the land?",
+    "options": [
+      "The Constitution",
+      "The President",
+      "Congress",
+      "The States"
+    ],
+    "answer": "The Constitution",
+    "thai": "คำถาม : กฎหมายสูงสุดของประเทศคืออะไร?\n  1: รัฐธรรมนูญ\n  2: ประธานาธิบดี\n  3: รัฐสภา\n  4: แต่ละรัฐ\nคำตอบ: รัฐธรรมนูญ"
+  },
+  {
+    "id": 2,
+    "question": "What does the Constitution do?",
+    "options": [
+      "Sets up the government",
+      "Declares war",
+      "Elects senators",
+      "Controls the economy"
+    ],
+    "answer": "Sets up the government",
+    "thai": "คำถาม : รัฐธรรมนูญทำอะไร?\n  1: จัดตั้งรัฐบาล\n  2: ประกาศสงคราม\n  3: เลือกวุฒิสมาชิก\n  4: ควบคุมเศรษฐกิจ\nคำตอบ: จัดตั้งรัฐบาล"
+  },
+  {
+    "id": 3,
+    "question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+    "options": [
+      "We the People",
+      "In God We Trust",
+      "United We Stand",
+      "E Pluribus Unum"
+    ],
+    "answer": "We the People",
+    "thai": "คำถาม : แนวคิดของการปกครองตนเองอยู่ในสามคำแรกของรัฐธรรมนูญ คำเหล่านั้นคืออะไร?\n  1: พวกเราประชาชน\n  2: ในพระเจ้าที่เราศรัทธา\n  3: เรารวมกันเรายืน\n  4: รวมกันเราอยู่ แยกกันเราตาย\nคำตอบ: พวกเราประชาชน"
+  },
+  {
+    "id": 4,
+    "question": "What is an amendment?",
+    "options": [
+      "A change (to the Constitution)",
+      "A law passed by Congress",
+      "A presidential order",
+      "A Supreme Court ruling"
+    ],
+    "answer": "A change (to the Constitution)",
+    "thai": "คำถาม : การแก้ไขเพิ่มเติมคืออะไร?\n  1: การเปลี่ยนแปลง (ต่อรัฐธรรมนูญ)\n  2: กฎหมายที่ผ่านโดยรัฐสภา\n  3: คำสั่งของประธานาธิบดี\n  4: คำตัดสินของศาลสูง\nคำตอบ: การเปลี่ยนแปลง (ต่อรัฐธรรมนูญ)"
+  },
+  {
+    "id": 5,
+    "question": "What do we call the first ten amendments to the Constitution?",
+    "options": [
+      "The Bill of Rights",
+      "The Articles of Confederation",
+      "The Declaration of Independence",
+      "The Emancipation Proclamation"
+    ],
+    "answer": "The Bill of Rights",
+    "thai": "คำถาม : เรามักเรียกบทแก้ไขเพิ่มเติมสิบข้อแรกของรัฐธรรมนูญว่าอะไร?\n  1: ปฏิญญาสิทธิ\n  2: ข้อบัญญัติของสมาพันธรัฐ\n  3: คำประกาศอิสรภาพ\n  4: คำประกาศเลิกทาส\nคำตอบ: ปฏิญญาสิทธิ"
+  },
+  {
+    "id": 6,
+    "question": "What is one right or freedom from the First Amendment?",
+    "options": [
+      "Speech",
+      "Education",
+      "Health care",
+      "Voting"
+    ],
+    "answer": "Speech",
+    "thai": "คำถาม : สิทธิหรือเสรีภาพหนึ่งข้อจากบทบัญญัติแรกของรัฐธรรมนูญคืออะไร?\n  1: การพูด\n  2: การศึกษา\n  3: การรักษาพยาบาล\n  4: การลงคะแนนเสียง\nคำตอบ: การพูด"
+  },
+  {
+    "id": 7,
+    "question": "How many amendments does the Constitution have?",
+    "options": [
+      "27",
+      "10",
+      "23",
+      "50"
+    ],
+    "answer": "27",
+    "thai": "คำถาม : รัฐธรรมนูญมีบทแก้ไขเพิ่มเติมกี่ฉบับ?\n  1: 27\n  2: 10\n  3: 23\n  4: 50\nคำตอบ: 27"
+  },
+  {
+    "id": 8,
+    "question": "What did the Declaration of Independence do?",
+    "options": [
+      "Declared our independence from Great Britain",
+      "Freed the slaves",
+      "Gave women the right to vote",
+      "Created the Constitution"
+    ],
+    "answer": "Declared our independence from Great Britain",
+    "thai": "คำถาม : คำประกาศอิสรภาพมีจุดประสงค์อะไร?\n  1: ประกาศอิสรภาพจากบริเตนใหญ่\n  2: เลิกทาส\n  3: ให้สิทธิสตรีลงคะแนนเสียง\n  4: สร้างรัฐธรรมนูญ\nคำตอบ: ประกาศอิสรภาพจากบริเตนใหญ่"
+  },
+  {
+    "id": 9,
+    "question": "What are two rights in the Declaration of Independence?",
+    "options": [
+      "Life and liberty",
+      "Vote and bear arms",
+      "Speech and press",
+      "Religion and assembly"
+    ],
+    "answer": "Life and liberty",
+    "thai": "คำถาม : สิทธิสองข้อในคำประกาศอิสรภาพคืออะไร?\n  1: ชีวิตและเสรีภาพ\n  2: การลงคะแนนเสียงและการถืออาวุธ\n  3: การพูดและสื่อมวลชน\n  4: ศาสนาและการชุมนุม\nคำตอบ: ชีวิตและเสรีภาพ"
+  },
+  {
+    "id": 10,
+    "question": "What is freedom of religion?",
+    "options": [
+      "You can practice any religion or not practice a religion",
+      "You must choose one religion",
+      "Religion is illegal",
+      "Only Christianity is allowed"
+    ],
+    "answer": "You can practice any religion or not practice a religion",
+    "thai": "คำถาม : เสรีภาพทางศาสนาหมายถึงอะไร?\n  1: คุณสามารถนับถือศาสนาใดก็ได้หรือไม่ก็นับถือเลยก็ได้\n  2: คุณต้องเลือกศาสนาเดียว\n  3: ศาสนาเป็นสิ่งผิดกฎหมาย\n  4: อนุญาตเฉพาะศาสนาคริสต์\nคำตอบ: คุณสามารถนับถือศาสนาใดก็ได้หรือไม่ก็นับถือเลยก็ได้"
+  },
+  {
+    "id": 11,
+    "question": "What is the economic system in the United States?",
+    "options": [
+      "Capitalist economy",
+      "Communist economy",
+      "Feudal economy",
+      "Socialist economy"
+    ],
+    "answer": "Capitalist economy",
+    "thai": "คำถาม : ระบบเศรษฐกิจของสหรัฐอเมริกาคืออะไร?\n  1: ระบบเศรษฐกิจแบบทุนนิยม\n  2: ระบบคอมมิวนิสต์\n  3: ระบบศักดินา\n  4: ระบบสังคมนิยม\nคำตอบ: ระบบเศรษฐกิจแบบทุนนิยม"
+  },
+  {
+    "id": 12,
+    "question": "What is the “rule of law”?",
+    "options": [
+      "Everyone must follow the law",
+      "Only the President is above the law",
+      "Only citizens must follow the law",
+      "The police decide what the law is"
+    ],
+    "answer": "Everyone must follow the law",
+    "thai": "คำถาม : 'หลักนิติธรรม' หมายถึงอะไร?\n  1: ทุกคนต้องปฏิบัติตามกฎหมาย\n  2: เฉพาะประธานาธิบดีเท่านั้นที่อยู่เหนือกฎหมาย\n  3: เฉพาะพลเมืองเท่านั้นที่ต้องปฏิบัติตามกฎหมาย\n  4: ตำรวจเป็นผู้ตัดสินว่ากฎหมายคืออะไร\nคำตอบ: ทุกคนต้องปฏิบัติตามกฎหมาย"
+  },
+  {
+    "id": 13,
+    "question": "Name one branch or part of the government.",
+    "options": [
+      "Congress",
+      "The press",
+      "The people",
+      "The military"
+    ],
+    "answer": "Congress",
+    "thai": "คำถาม : ยกตัวอย่างหนึ่งสาขาหรือส่วนหนึ่งของรัฐบาล\n  1: รัฐสภา\n  2: สื่อมวลชน\n  3: ประชาชน\n  4: กองทัพ\nคำตอบ: รัฐสภา"
+  },
+  {
+    "id": 14,
+    "question": "What stops one branch of government from becoming too powerful?",
+    "options": [
+      "Checks and balances",
+      "The President",
+      "The military",
+      "The Constitution"
+    ],
+    "answer": "Checks and balances",
+    "thai": "คำถาม : อะไรที่ป้องกันไม่ให้สาขาหนึ่งของรัฐบาลมีอำนาจมากเกินไป?\n  1: การตรวจสอบและถ่วงดุล\n  2: ประธานาธิบดี\n  3: กองทัพ\n  4: รัฐธรรมนูญ\nคำตอบ: การตรวจสอบและถ่วงดุล"
+  },
+  {
+    "id": 15,
+    "question": "Who is in charge of the executive branch?",
+    "options": [
+      "The President",
+      "The Chief Justice",
+      "The Speaker of the House",
+      "The Senate"
+    ],
+    "answer": "The President",
+    "thai": "คำถาม : ใครเป็นผู้รับผิดชอบฝ่ายบริหาร?\n  1: ประธานาธิบดี\n  2: หัวหน้าผู้พิพากษา\n  3: ประธานสภาผู้แทนราษฎร\n  4: วุฒิสภา\nคำตอบ: ประธานาธิบดี"
+  },
+  {
+    "id": 16,
+    "question": "Who makes federal laws?",
+    "options": [
+      "Congress",
+      "The President",
+      "The Supreme Court",
+      "The States"
+    ],
+    "answer": "Congress",
+    "thai": "คำถาม : ใครเป็นผู้ร่างกฎหมายของรัฐบาลกลาง?\n  1: รัฐสภา\n  2: ประธานาธิบดี\n  3: ศาลสูงสุด\n  4: รัฐต่างๆ\nคำตอบ: รัฐสภา"
+  },
+  {
+    "id": 17,
+    "question": "What are the two parts of the U.S. Congress?",
+    "options": [
+      "The Senate and House",
+      "The Cabinet and Senate",
+      "The President and Congress",
+      "The Courts and the Senate"
+    ],
+    "answer": "The Senate and House",
+    "thai": "คำถาม : รัฐสภาสหรัฐอเมริกาประกอบด้วยสองส่วนอะไรบ้าง?\n  1: วุฒิสภาและสภาผู้แทนราษฎร\n  2: คณะรัฐมนตรีและวุฒิสภา\n  3: ประธานาธิบดีและรัฐสภา\n  4: ศาลและวุฒิสภา\nคำตอบ: วุฒิสภาและสภาผู้แทนราษฎร"
+  },
+  {
+    "id": 18,
+    "question": "How many U.S. Senators are there?",
+    "options": [
+      "100",
+      "50",
+      "435",
+      "200"
+    ],
+    "answer": "100",
+    "thai": "คำถาม : มีวุฒิสมาชิกของสหรัฐอเมริกากี่คน?\n  1: 100\n  2: 50\n  3: 435\n  4: 200\nคำตอบ: 100"
+  },
+  {
+    "id": 19,
+    "question": "We elect a U.S. Senator for how many years?",
+    "options": [
+      "6",
+      "2",
+      "4",
+      "8"
+    ],
+    "answer": "6",
+    "thai": "คำถาม : เราเลือกวุฒิสมาชิกของสหรัฐอเมริกาในระยะเวลากี่ปี?\n  1: 6\n  2: 2\n  3: 4\n  4: 8\nคำตอบ: 6"
+  },
+  {
+    "id": 20,
+    "question": "Who is one of your state’s U.S. Senators now?",
+    "options": [
+      "Answers will vary",
+      "Joe Biden",
+      "Kamala Harris",
+      "Nancy Pelosi"
+    ],
+    "answer": "Answers will vary",
+    "thai": "คำถาม : ใครคือหนึ่งในวุฒิสมาชิกของรัฐของคุณในขณะนี้?\n  1: คำตอบอาจแตกต่างกันไป\n  2: โจ ไบเดน\n  3: คามาลา แฮร์ริส\n  4: แนนซี เพโลซี\nคำตอบ: คำตอบอาจแตกต่างกันไป"
+  },
+  {
+    "id": 21,
+    "question": "The House of Representatives has how many voting members?",
+    "options": [
+      "435",
+      "100",
+      "50",
+      "200"
+    ],
+    "answer": "435",
+    "thai": "คำถาม : สภาผู้แทนราษฎรมีสมาชิกที่มีสิทธิออกเสียงทั้งหมดกี่คน?\n  1: 435\n  2: 100\n  3: 50\n  4: 200\nคำตอบ: 435"
+  },
+  {
+    "id": 22,
+    "question": "We elect a U.S. Representative for how many years?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "2",
+    "thai": "คำถาม : เราเลือกผู้แทนราษฎรของสหรัฐอเมริกาในระยะเวลากี่ปี?\n  1: 2\n  2: 4\n  3: 6\n  4: 8\nคำตอบ: 2"
+  },
+  {
+    "id": 23,
+    "question": "Name your U.S. Representative.",
+    "options": [
+      "Answers will vary",
+      "Joe Biden",
+      "Kamala Harris",
+      "Chuck Schumer"
+    ],
+    "answer": "Answers will vary",
+    "thai": "คำถาม : โปรดระบุชื่อผู้แทนราษฎรของคุณ\n  1: คำตอบอาจแตกต่างกันไป\n  2: โจ ไบเดน\n  3: คามาลา แฮร์ริส\n  4: ชัค ชูเมอร์\nคำตอบ: คำตอบอาจแตกต่างกันไป"
+  },
+  {
+    "id": 24,
+    "question": "Who does a U.S. Senator represent?",
+    "options": [
+      "All people of the state",
+      "Only citizens of the state",
+      "Only adults of the state",
+      "The entire country"
+    ],
+    "answer": "All people of the state",
+    "thai": "คำถาม : วุฒิสมาชิกของสหรัฐอเมริกาเป็นตัวแทนของใคร?\n  1: ประชาชนทุกคนในรัฐ\n  2: เฉพาะพลเมืองของรัฐ\n  3: เฉพาะผู้ใหญ่ของรัฐ\n  4: ทั้งประเทศ\nคำตอบ: ประชาชนทุกคนในรัฐ"
+  },
+  {
+    "id": 25,
+    "question": "Why do some states have more Representatives than other states?",
+    "options": [
+      "Because of the state’s population",
+      "Because of the state’s size",
+      "Because of the state’s geography",
+      "Because of the state's history"
+    ],
+    "answer": "Because of the state’s population",
+    "thai": "คำถาม : ทำไมบางรัฐจึงมีผู้แทนราษฎรมากกว่ารัฐอื่น?\n  1: เพราะประชากรของรัฐนั้น\n  2: เพราะขนาดของรัฐนั้น\n  3: เพราะภูมิประเทศของรัฐนั้น\n  4: เพราะประวัติศาสตร์ของรัฐนั้น\nคำตอบ: เพราะประชากรของรัฐนั้น"
+  },
+  {
+    "id": 26,
+    "question": "We elect a President for how many years?",
+    "options": [
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "answer": "4",
+    "thai": "คำถาม : เราเลือกประธานาธิบดีในระยะเวลากี่ปี?\n  1: 4\n  2: 2\n  3: 6\n  4: 8\nคำตอบ: 4"
+  },
+  {
+    "id": 27,
+    "question": "In what month do we vote for President?",
+    "options": [
+      "November",
+      "January",
+      "October",
+      "July"
+    ],
+    "answer": "November",
+    "thai": "คำถาม : เราลงคะแนนเลือกประธานาธิบดีในเดือนไหน?\n  1: พฤศจิกายน\n  2: มกราคม\n  3: ตุลาคม\n  4: กรกฎาคม\nคำตอบ: พฤศจิกายน"
+  },
+  {
+    "id": 28,
+    "question": "What is the name of the President of the United States now?",
+    "options": [
+      "Joe Biden",
+      "Donald Trump",
+      "Kamala Harris",
+      "Barack Obama"
+    ],
+    "answer": "Joe Biden",
+    "thai": "คำถาม : ชื่อของประธานาธิบดีสหรัฐอเมริกาในปัจจุบันคืออะไร?\n  1: โจ ไบเดน\n  2: โดนัลด์ ทรัมป์\n  3: คามาลา แฮร์ริส\n  4: บารัค โอบามา\nคำตอบ: โจ ไบเดน"
+  },
+  {
+    "id": 29,
+    "question": "What is the name of the Vice President of the United States now?",
+    "options": [
+      "Kamala Harris",
+      "Nancy Pelosi",
+      "Joe Biden",
+      "Chuck Schumer"
+    ],
+    "answer": "Kamala Harris",
+    "thai": "คำถาม : ชื่อของรองประธานาธิบดีสหรัฐอเมริกาในปัจจุบันคืออะไร?\n  1: คามาลา แฮร์ริส\n  2: แนนซี เพโลซี\n  3: โจ ไบเดน\n  4: ชัค ชูเมอร์\nคำตอบ: คามาลา แฮร์ริส"
+  },
+  {
+    "id": 30,
+    "question": "If the President can no longer serve, who becomes President?",
+    "options": [
+      "The Vice President",
+      "The Speaker of the House",
+      "The Secretary of State",
+      "The Chief Justice"
+    ],
+    "answer": "The Vice President",
+    "thai": "คำถาม : หากประธานาธิบดีไม่สามารถปฏิบัติหน้าที่ได้ ใครจะเป็นประธานาธิบดีแทน?\n  1: รองประธานาธิบดี\n  2: ประธานสภาผู้แทนราษฎร\n  3: รัฐมนตรีต่างประเทศ\n  4: หัวหน้าผู้พิพากษา\nคำตอบ: รองประธานาธิบดี"
+  },
+  {
+    "id": 31,
+    "question": "If both the President and the Vice President can no longer serve, who becomes President?",
+    "options": [
+      "The Speaker of the House",
+      "The Chief Justice",
+      "The Secretary of State",
+      "The Senate Majority Leader"
+    ],
+    "answer": "The Speaker of the House",
+    "thai": "คำถาม : หากทั้งประธานาธิบดีและรองประธานาธิบดีไม่สามารถปฏิบัติหน้าที่ได้ ใครจะเป็นประธานาธิบดีแทน?\n  1: ประธานสภาผู้แทนราษฎร\n  2: หัวหน้าผู้พิพากษา\n  3: รัฐมนตรีต่างประเทศ\n  4: ผู้นำเสียงข้างมากในวุฒิสภา\nคำตอบ: ประธานสภาผู้แทนราษฎร"
+  },
+  {
+    "id": 32,
+    "question": "Who is the Commander in Chief of the military?",
+    "options": [
+      "The President",
+      "The Secretary of Defense",
+      "The Vice President",
+      "The General of the Army"
+    ],
+    "answer": "The President",
+    "thai": "คำถาม : ใครคือผู้บัญชาการทหารสูงสุด?\n  1: ประธานาธิบดี\n  2: รัฐมนตรีกลาโหม\n  3: รองประธานาธิบดี\n  4: นายพลของกองทัพ\nคำตอบ: ประธานาธิบดี"
+  },
+  {
+    "id": 33,
+    "question": "Who signs bills to become laws?",
+    "options": [
+      "The President",
+      "The Vice President",
+      "The Speaker of the House",
+      "The Supreme Court"
+    ],
+    "answer": "The President",
+    "thai": "คำถาม : ใครเป็นผู้ลงนามในร่างกฎหมายให้เป็นกฎหมาย?\n  1: ประธานาธิบดี\n  2: รองประธานาธิบดี\n  3: ประธานสภาผู้แทนราษฎร\n  4: ศาลสูงสุด\nคำตอบ: ประธานาธิบดี"
+  },
+  {
+    "id": 34,
+    "question": "Who vetoes bills?",
+    "options": [
+      "The President",
+      "The Vice President",
+      "The Supreme Court",
+      "Congress"
+    ],
+    "answer": "The President",
+    "thai": "คำถาม : ใครเป็นผู้ยับยั้งร่างกฎหมาย?\n  1: ประธานาธิบดี\n  2: รองประธานาธิบดี\n  3: ศาลสูงสุด\n  4: รัฐสภา\nคำตอบ: ประธานาธิบดี"
+  },
+  {
+    "id": 35,
+    "question": "What does the President’s Cabinet do?",
+    "options": [
+      "Advises the President",
+      "Votes on laws",
+      "Passes laws",
+      "Enforces the law"
+    ],
+    "answer": "Advises the President",
+    "thai": "คำถาม : คณะรัฐมนตรีของประธานาธิบดีทำหน้าที่อะไร?\n  1: ให้คำปรึกษาแก่ประธานาธิบดี\n  2: ลงคะแนนในกฎหมาย\n  3: ผ่านกฎหมาย\n  4: บังคับใช้กฎหมาย\nคำตอบ: ให้คำปรึกษาแก่ประธานาธิบดี"
+  },
+  {
+    "id": 36,
+    "question": "What are two Cabinet-level positions?",
+    "options": [
+      "Secretary of Defense and Secretary of Education",
+      "President and Vice President",
+      "Senator and Congressman",
+      "Chief Justice and House Speaker"
+    ],
+    "answer": "Secretary of Defense and Secretary of Education",
+    "thai": "คำถาม : ตำแหน่งระดับคณะรัฐมนตรีสองตำแหน่งคืออะไร?\n  1: รัฐมนตรีกลาโหม และ รัฐมนตรีศึกษา\n  2: ประธานาธิบดี และ รองประธานาธิบดี\n  3: วุฒิสมาชิก และ สมาชิกสภาผู้แทนราษฎร\n  4: หัวหน้าผู้พิพากษา และ ประธานสภาผู้แทนราษฎร\nคำตอบ: รัฐมนตรีกลาโหม และ รัฐมนตรีศึกษา"
+  },
+  {
+    "id": 37,
+    "question": "What does the judicial branch do?",
+    "options": [
+      "Reviews laws",
+      "Makes laws",
+      "Vetoes laws",
+      "Signs laws"
+    ],
+    "answer": "Reviews laws",
+    "thai": "คำถาม : อำนาจตุลาการทำหน้าที่อะไร?\n  1: ทบทวนกฎหมาย\n  2: ออกกฎหมาย\n  3: ยับยั้งกฎหมาย\n  4: ลงนามในกฎหมาย\nคำตอบ: ทบทวนกฎหมาย"
+  },
+  {
+    "id": 38,
+    "question": "What is the highest court in the United States?",
+    "options": [
+      "The Supreme Court",
+      "The Federal Court",
+      "The District Court",
+      "The Court of Appeals"
+    ],
+    "answer": "The Supreme Court",
+    "thai": "คำถาม : ศาลที่สูงที่สุดในสหรัฐอเมริกาคืออะไร?\n  1: ศาลสูงสุด\n  2: ศาลรัฐบาลกลาง\n  3: ศาลแขวง\n  4: ศาลอุทธรณ์\nคำตอบ: ศาลสูงสุด"
+  },
+  {
+    "id": 39,
+    "question": "How many justices are on the Supreme Court?",
+    "options": [
+      "Nine",
+      "Seven",
+      "Twelve",
+      "Ten"
+    ],
+    "answer": "Nine",
+    "thai": "คำถาม : มีผู้พิพากษาในศาลสูงสุดกี่คน?\n  1: 9 คน\n  2: 7 คน\n  3: 12 คน\n  4: 10 คน\nคำตอบ: 9 คน"
+  },
+  {
+    "id": 40,
+    "question": "Who is the Chief Justice of the United States now?",
+    "options": [
+      "John Roberts",
+      "Clarence Thomas",
+      "Joe Biden",
+      "Sonia Sotomayor"
+    ],
+    "answer": "John Roberts",
+    "thai": "คำถาม : ใครคือหัวหน้าผู้พิพากษาของสหรัฐอเมริกาในปัจจุบัน?\n  1: จอห์น โรเบิร์ตส์\n  2: แคลเรนซ์ โธมัส\n  3: โจ ไบเดน\n  4: โซเนีย โซโตมายอร์\nคำตอบ: จอห์น โรเบิร์ตส์"
+  },
+  {
+    "id": 41,
+    "question": "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?",
+    "options": [
+      "To print money",
+      "To issue driver's licenses",
+      "To provide schooling",
+      "To approve zoning and land use"
+    ],
+    "answer": "To print money",
+    "thai": "คำถาม : ภายใต้รัฐธรรมนูญของเรา อำนาจบางอย่างเป็นของรัฐบาลกลาง อำนาจหนึ่งของรัฐบาลกลางคืออะไร?\n  1: พิมพ์เงิน\n  2: ออกใบขับขี่\n  3: ให้การศึกษา\n  4: อนุมัติเขตการใช้ที่ดิน\nคำตอบ: พิมพ์เงิน"
+  },
+  {
+    "id": 42,
+    "question": "Under our Constitution, some powers belong to the states. What is one power of the states?",
+    "options": [
+      "Provide schooling and education",
+      "Print money",
+      "Make treaties",
+      "Create an army"
+    ],
+    "answer": "Provide schooling and education",
+    "thai": "คำถาม : ภายใต้รัฐธรรมนูญของเรา อำนาจบางอย่างเป็นของแต่ละรัฐ อำนาจหนึ่งของรัฐคืออะไร?\n  1: ให้การศึกษาและการเรียนรู้\n  2: พิมพ์เงิน\n  3: ทำสนธิสัญญา\n  4: สร้างกองทัพ\nคำตอบ: ให้การศึกษาและการเรียนรู้"
+  },
+  {
+    "id": 43,
+    "question": "Who is the Governor of your state now?",
+    "options": [
+      "Answers will vary",
+      "Joe Biden",
+      "Nancy Pelosi",
+      "Chuck Schumer"
+    ],
+    "answer": "Answers will vary",
+    "thai": "คำถาม : ใครคือผู้ว่าการรัฐของคุณในขณะนี้?\n  1: คำตอบอาจแตกต่างกันไป\n  2: โจ ไบเดน\n  3: แนนซี เพโลซี\n  4: ชัค ชูเมอร์\nคำตอบ: คำตอบอาจแตกต่างกันไป"
+  },
+  {
+    "id": 44,
+    "question": "What is the capital of your state?",
+    "options": [
+      "Answers will vary",
+      "New York City",
+      "Los Angeles",
+      "Miami"
+    ],
+    "answer": "Answers will vary",
+    "thai": "คำถาม : เมืองหลวงของรัฐของคุณคืออะไร?\n  1: คำตอบอาจแตกต่างกันไป\n  2: นิวยอร์กซิตี้\n  3: ลอสแอนเจลิส\n  4: ไมอามี\nคำตอบ: คำตอบอาจแตกต่างกันไป"
+  },
+  {
+    "id": 45,
+    "question": "What are the two major political parties in the United States?",
+    "options": [
+      "Democratic and Republican",
+      "Labor and Conservative",
+      "Green and Libertarian",
+      "Progressive and Tea"
+    ],
+    "answer": "Democratic and Republican",
+    "thai": "คำถาม : พรรคการเมืองหลักสองพรรคในสหรัฐอเมริกาคือพรรคอะไรบ้าง?\n  1: พรรคเดโมแครตและพรรครีพับลิกัน\n  2: พรรคแรงงานและพรรคอนุรักษ์นิยม\n  3: พรรคกรีนและพรรคเสรีนิยม\n  4: พรรคก้าวหน้าและพรรคที\nคำตอบ: พรรคเดโมแครตและพรรครีพับลิกัน"
+  },
+  {
+    "id": 46,
+    "question": "What is the political party of the President now?",
+    "options": [
+      "Democratic",
+      "Republican",
+      "Independent",
+      "Green"
+    ],
+    "answer": "Democratic",
+    "thai": "คำถาม : พรรคการเมืองของประธานาธิบดีในปัจจุบันคือพรรคอะไร?\n  1: พรรคเดโมแครต\n  2: พรรครีพับลิกัน\n  3: พรรคอิสระ\n  4: พรรคกรีน\nคำตอบ: พรรคเดโมแครต"
+  },
+  {
+    "id": 47,
+    "question": "What is the name of the Speaker of the House of Representatives now?",
+    "options": [
+      "Mike Johnson",
+      "Nancy Pelosi",
+      "Chuck Schumer",
+      "Mitch McConnell"
+    ],
+    "answer": "Mike Johnson",
+    "thai": "คำถาม : ใครคือประธานสภาผู้แทนราษฎรในปัจจุบัน?\n  1: ไมค์ จอห์นสัน\n  2: แนนซี เพโลซี\n  3: ชัค ชูเมอร์\n  4: มิทช์ แมคคอนเนลล์\nคำตอบ: ไมค์ จอห์นสัน"
+  },
+  {
+    "id": 48,
+    "question": "There are four amendments to the Constitution about who can vote. Describe one of them.",
+    "options": [
+      "Citizens 18 and older can vote",
+      "Only men can vote",
+      "Only people with jobs can vote",
+      "You must own property to vote"
+    ],
+    "answer": "Citizens 18 and older can vote",
+    "thai": "คำถาม : มีการแก้ไขรัฐธรรมนูญ 4 ครั้งเกี่ยวกับสิทธิในการเลือกตั้ง อธิบายหนึ่งในนั้น\n  1: พลเมืองอายุ 18 ปีขึ้นไปสามารถลงคะแนนเสียงได้\n  2: เฉพาะผู้ชายเท่านั้นที่สามารถลงคะแนนได้\n  3: เฉพาะผู้ที่มีงานทำเท่านั้นที่สามารถลงคะแนนได้\n  4: คุณต้องเป็นเจ้าของทรัพย์สินจึงจะสามารถลงคะแนนได้\nคำตอบ: พลเมืองอายุ 18 ปีขึ้นไปสามารถลงคะแนนเสียงได้"
+  },
+  {
+    "id": 49,
+    "question": "What is one responsibility that is only for United States citizens?",
+    "options": [
+      "Serve on a jury",
+      "Pay taxes",
+      "Obey the law",
+      "Get a driver’s license"
+    ],
+    "answer": "Serve on a jury",
+    "thai": "คำถาม : หนึ่งในหน้าที่ที่สงวนไว้สำหรับพลเมืองสหรัฐฯ เท่านั้นคืออะไร?\n  1: ร่วมเป็นลูกขุนในศาล\n  2: ชำระภาษี\n  3: ปฏิบัติตามกฎหมาย\n  4: ได้รับใบขับขี่\nคำตอบ: ร่วมเป็นลูกขุนในศาล"
+  },
+  {
+    "id": 50,
+    "question": "Name one right only for United States citizens.",
+    "options": [
+      "Vote in a federal election",
+      "Work in the United States",
+      "Attend public school",
+      "Travel freely"
+    ],
+    "answer": "Vote in a federal election",
+    "thai": "คำถาม : ระบุสิทธิ์หนึ่งข้อที่สงวนไว้สำหรับพลเมืองสหรัฐฯ เท่านั้น\n  1: ลงคะแนนเสียงในการเลือกตั้งระดับรัฐบาลกลาง\n  2: ทำงานในสหรัฐอเมริกา\n  3: เข้าเรียนในโรงเรียนของรัฐ\n  4: เดินทางได้อย่างเสรี\nคำตอบ: ลงคะแนนเสียงในการเลือกตั้งระดับรัฐบาลกลาง"
+  }
+]
